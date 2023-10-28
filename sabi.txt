@@ -1,0 +1,102 @@
+<IDOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>BEAUTY PRODUCTS</title>
+
+<style>
+
+body {
+
+font-family: Arial, sans-serif,
+
+background-color: #7ddcc4;
+
+margin: 0;
+
+padding: 0;
+}
+Header{
+
+background-color: #333;
+
+color: #84c7af
+
+text-align: center;
+
+padding: 20px:
+}
+.container {
+
+max-width: 800px;
+
+margin: 0 auto;
+
+padding: 20px
+
+background-color: #8cd759fff, box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+H1{
+font-size: 28px;
+}
+P{
+font-size: 16px;
+}
+sports-image {
+
+height: auto;
+
+margin: 20px 0;
+max-width: 100%;
+}
+sport-details {
+
+text-align: center;
+}
+sport-details h2 { font-size:24px; }
+
+sport-details p{
+
+font-size: 18px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Welcome to Beauty World</h1>
+
+</header>
+
+<div class="container">
+
+<h2>About My Webpage</h2>
+
+<p>This webpage is about Beauty Products.</p>
+
+<img class="sports-image" src="https://img.freepik.com/premium-vector/natural-beauty-logo-
+
+template-minimal-nature-girl-vector-design_664995-78.jpg" alt="Sports Image">
+
+<div class="sport-details">
+
+<h2About My Products</h2>
+
+<p>The triennial is divided into seven sections illuminating seven kinds of modern beauty, echoing perhaps the seven archetypal stories some critics identify in literature. Here are the Cooper Hewitt's categories: Extravagant, Transgressive, Emergent, Transformative, Ethereal, Intricate, Elemental</p>
+
+<p>Beauty standards are a set of values applied to the appearance of both men and women to be regarded as beautiful and handsome in order to rightly fit in the community. These standards are concerned with people's skin, hair, clothing, and other parts of the body.</p>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
